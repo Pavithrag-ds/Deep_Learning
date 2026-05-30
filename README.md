@@ -102,8 +102,5 @@ If you like this repository, feel free to ⭐ the repo and connect with me on Gi
 
 ---
 
-# 📜 License
-
-This project is licensed under the MIT License.
 
 
