@@ -96,11 +96,6 @@ The main purpose of this repository is:
 
 ---
 
-# 🤝 Connect With Me
-
-If you like this repository, feel free to ⭐ the repo and connect with me on GitHub.
-
----
 
 
 
